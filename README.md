@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey, I'm **Ansh**! 👋
+
+- Aspiring Computer Scientist! 😎
+- Languages: Python, HTML/CSS, C++ 🌱
+- Pronouns: He/Him 😄
+- Living in Australia! 🔭
+- You can reach out to me on discord or twitter! (Discord - Happy?#5111) 📫
