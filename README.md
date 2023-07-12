@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - Aspiring Computer Scientist
 - Languages: Python, R, C++ 🌱
 - Living in Australia! 🔭
-- You can reach out to me on discord or twitter! (Discord - Happy?#5111) 📫
+- You can reach out to me on discord or twitter! (Discord - hsna_) 📫
