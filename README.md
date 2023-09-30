@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### Hey, I'm **Ansh**! 👋
 
 - Aspiring Computer Scientist
-- Languages: Python, R, C++ 🌱
+- Languages: Python, JS, C++ 🌱
 - Living in Australia! 🔭
 - You can reach out to me on discord or twitter! (Discord - hsna_) 📫
