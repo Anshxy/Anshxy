@@ -26,7 +26,7 @@
 
 I'm an aspiring computer science high school student with a keen interest in Machine Learning and Computer Vision
 
-- 🌏 I'm current in Australia, NSW
+- 🌏 I'm currently in Australia, NSW
 - 🏉🎵 I love sports and music
 - 📫How to reach me:
   
