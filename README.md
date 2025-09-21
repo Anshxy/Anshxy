@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 
-I'm doing my undergraduate for Computer Science/Electrical Engineering at UNSW with a keen interest in Machine Learning and Computer Vision
+I'm doing my undergraduate for Aerospace Engineering/Physics at UNSW with a keen interest in Machine Learning and Computer Vision
 
 - 🌏 I'm currently in Australia, NSW
 - 🏉🎵 I love sports and music
