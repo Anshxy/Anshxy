@@ -27,7 +27,6 @@
 I'm doing my undergraduate for Aerospace Engineering/Computer Science at UNSW with a keen interest in Machine Learning and Computer Vision
 
 - 🌏 I'm currently in Australia, NSW
-- 🏉🎵 I love sports and music
 - 📫How to reach me:
   
   - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-rawat-2b5736256/)
